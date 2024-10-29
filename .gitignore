@@ -1,0 +1,13 @@
+/Models/cnn_adam_relu.pth
+/Models/cnn_adamw_relu.pth
+/Models/cnn_adamw_smish.pth
+/digit.png
+/mnist_cnn.pth
+/data/MNIST/raw/t10k-images-idx3-ubyte
+/data/MNIST/raw/t10k-images-idx3-ubyte.gz
+/data/MNIST/raw/t10k-labels-idx1-ubyte
+/data/MNIST/raw/t10k-labels-idx1-ubyte.gz
+/data/MNIST/raw/train-images-idx3-ubyte
+/data/MNIST/raw/train-images-idx3-ubyte.gz
+/data/MNIST/raw/train-labels-idx1-ubyte
+/data/MNIST/raw/train-labels-idx1-ubyte.gz
