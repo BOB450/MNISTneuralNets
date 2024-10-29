@@ -1,0 +1,16 @@
+--cnn with Adam and relu--
+Epoch 99/100, Loss: 0.0328, Training Accuracy: 99.00%
+Epoch 100/100, Loss: 0.0331, Training Accuracy: 99.03%
+Test Loss: 0.0111, Test Accuracy: 99.67%
+
+--cnn with AdamW and relu--
+Epoch 99/100, Loss: 0.0353, Training Accuracy: 98.98%
+Epoch 100/100, Loss: 0.0357, Training Accuracy: 98.91%
+Test Loss: 0.0118, Test Accuracy: 99.63%
+
+--cnn with AdamW and smish--
+Epoch 97/100, Loss: 0.0308, Training Accuracy: 99.05%
+Epoch 98/100, Loss: 0.0311, Training Accuracy: 99.03%
+Epoch 99/100, Loss: 0.0295, Training Accuracy: 99.07%
+Epoch 100/100, Loss: 0.0310, Training Accuracy: 99.02%
+Test Loss: 0.0104, Test Accuracy: 99.68%
